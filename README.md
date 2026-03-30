@@ -1,4 +1,4 @@
-# 📘 POLARIS — Evaluation Materials & Agent Prompts
+# 📘 POLARIS — Agent Prompts
 
 ## 🔷 Overview
 
