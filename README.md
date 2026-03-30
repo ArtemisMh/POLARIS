@@ -1,4 +1,4 @@
-# 📘 POLARIS — Evaluation Materials & Agent Prompts
+# 📘 POLARIS — Agent Prompts
 
 ## 🔷 Overview
 
@@ -32,7 +32,7 @@ All questionnaires use a **six-point Likert scale**:
 - **6 = Strongly Agree**
 
 
-### 📁 `interview_guides/`
+### 📁 `interview_questions/`
 
 Contains the semi-structured interview questions used in both rounds.
 
