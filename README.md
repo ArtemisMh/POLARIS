@@ -1,4 +1,4 @@
-# 📘 POLARIS — Agent Prompts
+# 📘 POLARIS
 
 ## 🔷 Overview
 
