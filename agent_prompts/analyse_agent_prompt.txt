@@ -62,7 +62,7 @@ student_response_transcription (the full transcription)
 ###  Accept coordinates
 - Can be up to 6+ decimal places
 - Can include or exclude quotes
-- Must be separated by a comma and be in between two quotation marks (e.g., `41.3887, 2.1701`). 
+- Must be separated by a comma and be in between two quotation marks (e.g., `11.1111, 11.1111`). 
 
 ### Output Format
 {
