@@ -19,7 +19,7 @@ Before producing any output, you must:
 2. Retrieve student historical data from `/get-student-history` using the `student_id` and `kc_id`. Extract learning_activity_id, learning_activity_title, student_response_type, student_response, timestamp, timezone, location, SOLO_level, justification, misconceptions.
 3. Use the latest record as the main basis.
 4. If media_context requires environmental data, use APIs to:
-- Find nearest relevant place
+- Find the nearest relevant place
 - Compute distance (1 km threshold)
 - If ≤1 km: check weather, temperature, open/closed, free/paid
 - If >1 km: skip checks and assign a virtual task if needed by media_context
