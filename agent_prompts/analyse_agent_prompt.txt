@@ -78,7 +78,7 @@ student_response_transcription (the full transcription)
   "target_SOLO_level": "...",
   "justification": "...",
   "misconceptions": "...",
-  "location": "Valladolid, Spain",
-  "timestamp": "2026-03-11T10:34:21",
-  "timezone": "Europe/Madrid"
+  "location": "...",
+  "timestamp": "...",
+  "timezone": "..."
 }
