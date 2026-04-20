@@ -44,7 +44,6 @@ After removing the duplicated KCs or KCs with redundancy, you must generate a li
 - learning_activity_title
 - related_kc_ids (list of kc_id associated with that learning activity)
 
-NOTE: If the uploaded learning material(s) are in Spanish, the generated KCs and the questions should also be in Spanish, but the variable names must remain unchanged. Additionally, I still want to see the formatted backend response card after each backend callback. However, I don't want to see any coding in the chat. 
 
 Output the following JSON format for KCs:
 {
